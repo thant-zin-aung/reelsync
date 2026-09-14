@@ -1,8 +1,12 @@
 # 🎬 ReelSync
 
-**ReelSync** is a movie and TV discovery and streaming web application focused on a smooth viewing experience with **Burmese (Myanmar) AI-powered subtitles**, live subtitle synchronization, multiple streaming servers, and movie/TV metadata.
+**ReelSync** is a movie and TV discovery and streaming application focused on a smooth viewing experience with **Burmese (Myanmar) AI-powered subtitles**, live subtitle synchronization, multiple streaming servers, and movie/TV metadata.
 
-🌐 **Live Website:** https://reelsync.up.railway.app/
+ReelSync is available as both a **web application** and an **Android APK**.
+
+🌐 **Web App:** https://reelsync.up.railway.app/
+
+📱 **Android:** APK available in this GitHub repository.
 
 ---
 
@@ -36,6 +40,14 @@
 * Fullscreen playback
 * Movie trailer support
 * Streaming-focused interface
+
+### 📱 Android App
+
+ReelSync is also available as an Android application.
+
+The Android version provides the ReelSync experience in a dedicated mobile application, making it easier to browse movies and TV series and use the subtitle features on Android devices.
+
+The APK is released through this GitHub repository.
 
 ### 🎞️ Movie Information
 
@@ -124,7 +136,9 @@ Viewer
 * 🔎 Movie and TV discovery
 * 📊 Live diagnostics and logs
 * 🎞️ TMDB-powered metadata
-* 📱 Smooth media-consumption experience
+* 🌐 Web application
+* 📱 Android APK
+* 📱 Mobile-friendly media experience
 
 ---
 
@@ -152,6 +166,21 @@ Google Gemini is used for AI-powered Burmese subtitle translation.
 ### ▶️ Streaming Sources
 
 ReelSync supports external streaming sources to provide video playback.
+
+---
+
+## 📱 Android APK
+
+The Android version of ReelSync is distributed as an APK through this GitHub repository.
+
+### Installation
+
+1. Download the latest `.apk` release from the repository.
+2. Open the APK on your Android device.
+3. Allow installation from the source if Android requests permission.
+4. Install and launch ReelSync.
+
+> **Note:** Android may display a security warning when installing an APK downloaded outside Google Play. Only install APK files obtained from a source you trust.
 
 ---
 
@@ -188,6 +217,7 @@ Example:
 * [ ] Add additional subtitle customization
 * [ ] Improve performance and caching
 * [ ] Add more subtitle languages
+* [ ] Release future Android updates
 
 ---
 
@@ -205,7 +235,8 @@ ReelSync is intended as a media discovery and playback interface and does not cl
 
 ## 🔗 Links
 
-* 🌐 **Live Website:** https://reelsync.up.railway.app/
+* 🌐 **Web App:** https://reelsync.up.railway.app/
+* 📱 **Android APK:** Available in this GitHub repository
 * 🎞️ **TMDB:** https://www.themoviedb.org/
 * 🤖 **Google AI Studio:** https://aistudio.google.com/
 
